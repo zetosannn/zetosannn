@@ -21,7 +21,7 @@ AI/ML engineer focused on running, optimizing, and fine-tuning open models on **
 ## 📫 Contact
 
 - 🌐 [zetosannn.github.io](https://zetosannn.github.io)
-- 🐦 [@stevenwongso_ai](https://twitter.com/stevenwongso_ai)
+- 🐦 [@stevenwongso_ai](https://twitter.com/stevenwongso)
 - 💬 Open to collaborations on inference / fine-tuning workflows for AMD platforms
 
 ---
